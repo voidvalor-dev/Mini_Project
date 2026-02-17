@@ -1,0 +1,5 @@
+Hourly electricity price prediction is crucial in competitive wholesale markets like MISO because electricity cannot be stored economically at scale, requiring real-time generation to match volatile hourly demand, 
+supply constraints, and intermittent renewables such as wind and solar, which cause sharp price spikes during peaks or shortages. Accurate day-ahead forecasts enable generators, utilities, traders, and retailers 
+to submit optimal bids, schedule maintenance, hedge risks, maximize profits, minimize waste, and prevent outages, while integrating factors like weather-driven renewable output improves grid reliability amid growing 
+clean energy penetration (24% of US production by 2022). In MISO specifically, which spans 15 states serving 45 million customers, these predictions directly influence Locational Marginal Prices (LMPs) at hubs like 
+Minnesota HUB, guiding $40 billion in annual transactions by balancing transmission congestion, demand forecasts, and fast-start resources in day-ahead and real-time markets.
